@@ -10,7 +10,7 @@ Here you can see the linear gradient live and the code snippet.
 
 ## Links
 
-['See live']['https://hexcolorgenerator-beginner.netlify.app']
+['Seelive https://hexcolormaker.netlify.app']
 
 ###### Copyright 
 All right reseved by Abdelrahman with the email 
